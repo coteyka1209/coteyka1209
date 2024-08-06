@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coteyka1209
 - 👀 I’m interested in making cool things that helps people
-- 🌱 I’m currently learning c# (and in high school)
+- 🌱 I’m currently learning html, css and js (and in high school)
 - 💞️ I’m looking to collaborate on some game mayb (im pretty bad at coding)
 - 📫 How to reach me: discord @coteyka, or telegram @coteyka1209
 - 😄 Pronouns: he/him
