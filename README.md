@@ -1,5 +1,5 @@
-he/him
-contact me on telegram: @coteyka1209 or discord: @coteyka
+he/him <br>
+contact me on telegram: @coteyka1209 or discord: @coteyka <br>
 i love opening issues
 
 <!---
